@@ -4,6 +4,9 @@ Clone of [delivery driver](https://www.gamedev.tv/courses/1394720/lectures/33077
 
 ![preview](./assets/preview.png)
 
+Demo here: https://tabanella.me/cocos-engine-delivery-driver/
+
+
 List of subjects
 
  - Assets
