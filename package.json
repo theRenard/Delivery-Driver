@@ -1,8 +1,15 @@
 {
   "name": "Delivery Driver",
   "uuid": "6e68b7ba-2381-49a6-aead-c50e9af46557",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "creator": {
-    "version": "3.6.0"
+    "version": "3.6.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d build/web-desktop"
+  },
+  "description": "Deliver Driver game tutorial",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }

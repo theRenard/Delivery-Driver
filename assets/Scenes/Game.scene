@@ -183,6 +183,8 @@
     "_screenScale": 1,
     "_visibility": 41943040,
     "_targetTexture": null,
+    "_cameraType": -1,
+    "_trackingType": 0,
     "_id": "63WIch3o5BEYRlXzTT0oWc"
   },
   {
@@ -202,7 +204,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Driver",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -416,7 +418,7 @@
   {
     "__type__": "cc.Node",
     "_name": "terrain",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -521,7 +523,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Street",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -700,7 +702,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Corner 1",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -805,7 +807,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 3",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -910,7 +912,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 2",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1015,7 +1017,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 1",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1120,7 +1122,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 4",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1225,7 +1227,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 5",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1330,7 +1332,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 6",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1435,7 +1437,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 3",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1540,7 +1542,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 4",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1645,7 +1647,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 7",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1750,7 +1752,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 8",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1855,7 +1857,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 5",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -1960,7 +1962,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 6",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2065,7 +2067,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 9",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2170,7 +2172,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Corner 2",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2275,7 +2277,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Corner 3",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2380,7 +2382,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 10",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2485,7 +2487,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 7",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2590,7 +2592,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 8",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2695,7 +2697,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 11",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2800,7 +2802,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 12",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -2905,7 +2907,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 9",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3010,7 +3012,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 10",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3115,7 +3117,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 13",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3220,7 +3222,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 14",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3325,7 +3327,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 15",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3430,7 +3432,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 11",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3535,7 +3537,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 12",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3640,7 +3642,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 16",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3745,7 +3747,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Corner 4",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3850,7 +3852,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Corner 5",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -3955,7 +3957,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 17",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4060,7 +4062,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 13",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4165,7 +4167,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 14",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4270,7 +4272,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 18",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4375,7 +4377,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 19",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4480,7 +4482,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 20",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4585,7 +4587,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 15",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4690,7 +4692,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 16",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4795,7 +4797,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 21",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -4900,7 +4902,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 22",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -5005,7 +5007,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 17",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -5110,7 +5112,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Intersection 18",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -5215,7 +5217,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Road 23",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -5320,7 +5322,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Corner 6",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -9854,7 +9856,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Deliveries",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -9913,7 +9915,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Sprite",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 284
     },
@@ -10078,7 +10080,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Customer",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 284
     },
@@ -10239,7 +10241,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Sprite-001",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 284
     },
@@ -10404,7 +10406,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Sprite-002",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 284
     },
@@ -10569,7 +10571,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Customer-001",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 284
     },
@@ -10751,7 +10753,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Speedups",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -10807,7 +10809,7 @@
   {
     "__type__": "cc.Node",
     "_name": "speedup",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 311
     },
@@ -10968,7 +10970,7 @@
   {
     "__type__": "cc.Node",
     "_name": "speedup-001",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 311
     },
@@ -11129,7 +11131,7 @@
   {
     "__type__": "cc.Node",
     "_name": "speedup-002",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 311
     },
@@ -11290,7 +11292,7 @@
   {
     "__type__": "cc.Node",
     "_name": "speedup-003",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 311
     },
@@ -11516,8 +11518,8 @@
     "__prefab": null,
     "_alignFlags": 45,
     "_target": null,
-    "_left": 5.684341886080801e-13,
-    "_right": 5.684341886080801e-13,
+    "_left": -5.684341886080801e-13,
+    "_right": -5.684341886080801e-13,
     "_top": null,
     "_bottom": null,
     "_horizontalCenter": 0,
@@ -11637,7 +11639,8 @@
     "_useHDR": true,
     "_editableMaterial": null,
     "_reflectionHDR": null,
-    "_reflectionLDR": null
+    "_reflectionLDR": null,
+    "_rotationAngle": 0
   },
   {
     "__type__": "cc.FogInfo",
